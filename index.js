@@ -6,6 +6,7 @@ const apiUrl = 'https://api.mockaroo.com/api/generate.json';
 const apiKey = 'd12a0ef0'; 
 
 const schema = {
+    
     fields: [
         { name: 'ID', type: 'GUID' },
         { name: 'Name', type: 'First Name' },
